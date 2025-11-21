@@ -4,7 +4,7 @@ import Kdrama from './Kdrama.vue';
 import HollyWood from './HollyWood.vue';
 // import BollyWood from './BollyWood.vue';
 import TvSeries from './TvSeries.vue';
-import Footer from './footer.vue'
+import Footer from './Footer.vue'
 
 </script>
 
